@@ -1,5 +1,6 @@
 # DES
 DES Algorithm Implemented by Jongwon, Kim.
+The code is written in JAVA. Create a new plain project and paste 5 source files to src folder.
 
 ## How To Use
 ![캡쳐1](https://user-images.githubusercontent.com/43626362/161361541-22d85799-d6ce-4ed9-8420-35cf24d076b5.png)
